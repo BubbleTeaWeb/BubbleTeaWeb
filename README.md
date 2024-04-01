@@ -6,4 +6,4 @@
 - 🌱 Exploring various elements of photography
 - ⚡ I am obsessed with anything bubble tea themed! 🧋
 - 🎓 I hope to become a freelance web developer/photographer for mom and pop shops after graduation
-- 📫 How to reach me: [...](https://www.linkedin.com/in/carey-tung/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carey-tung/)

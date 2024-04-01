@@ -1,4 +1,5 @@
-### Howdy 🤠
+# Howdy 🤠
+![How to make bubble tea](How to Make Bubble Tea.webp)
 ## About Me
 
 - 🔭 Full-Stack Web Development major at Arizona State University with a minor in Digital Audiences
